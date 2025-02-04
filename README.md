@@ -1,6 +1,4 @@
-# CURRICULUM VITAE
-
-## MUHAMMAD FEBRIAN MAULANA  
+# MUHAMMAD FEBRIAN MAULANA  
 **Email:** [m.febrian.ee@gmail.com](mailto:m.febrian.ee@gmail.com)  
 
 ---
