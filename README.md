@@ -29,53 +29,20 @@ I am an Experienced Software Engineer, skilled in app development. Familiar with
 
 ### **Siloam International Hospitals**  
 **Fullstack Developer – Scrum Master’s Payment System**  
-*September 2022 - Current*  
-- Responsible as Scrum Master’s Payment System in Patient Administrations Tribe.  
-- Develop APIs related to Core Applications for integration:  
-  - Insert Transaction  
-  - Insert Item Issue  
-  - Billing Engine (Recalculate Price Engine)  
-  - Invoicing  
-  - Settlement  
-  - Master Data Related  
-- Develop all related Payment Systems in Siloam Hospital:  
-  - Billing Engine  
-  - Invoicing System  
-  - Payment Integration with 3rd Party (Nobu, Midtrans)  
-  - Send Invoice Data to CMS & DMS for Claiming Insurance Payment  
-  - Reporting (Invoice, Prepaid, Refund Form)  
-  - Integration Payment System with Other Tribes  
-- Review, test, and assign development tasks.  
-- Deploy and support deployment across all environments.  
-- Support and troubleshoot environment issues.  
+*September 2022 - December 2024*  
 
 ### **Agung Sedayu Group**  
 **Application Development Staff – North Jakarta, Jakarta**  
 *August 2021 – August 2022*  
-- Backend Developer role.  
-- Develop, test, and maintain REST APIs using .Net Core in C# with MongoDB.  
-- Document enhancements and development modules.  
 
 ### **Hiro Sentra Global**  
 **Programmer in GS Battery – Karawang, Jawa Barat**  
-*July 2020 – July 2021*  
-- Develop, fix bugs, and maintain web-based applications in VB.Net using WebForm with SQL Server and Oracle.  
-- Document developed modules.  
-
 **Data Engineer in GS Battery – Karawang, Jawa Barat**  
-- Develop, fix bugs, and maintain dashboards using Tableau.  
-- Maintain dashboard host server in Tableau Server.  
-- Manage scheduler and data pipelines for dashboards.  
-- Document developed dashboards.  
+*July 2020 – July 2021*  
 
 ### **XSIS Mitra Utama**  
 **Backend Developer in BFI Finance – Tangerang, Banten**  
 *May 2018 – May 2020*  
-- Work closely with Business Analysts, Quality Assurance, and Release Management to meet sprint deadlines.  
-- Develop, fix bugs, and maintain Salestrax and AIS Web Apps using ASP .Net WebForm with C# and SQL Server.  
-- Develop and maintain APIs using .Net Core with C# and SQL Server for third-party clients.  
-- Enhance reports using SSRS.  
-- Assist RM in creating proxy and listing APIs in multiple environments using APIGee.  
 
 ---
 
