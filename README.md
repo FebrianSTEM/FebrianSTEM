@@ -9,7 +9,7 @@ I am an Experienced Software Engineer, skilled in app development. Familiar with
 ---
 
 ## EDUCATION  
-**Bachelor of Engineering** - Institut Teknologi Kalimantan, Balikpapan, East Borneo  
+**Bachelor of Engineering** GPA 3.60 - Institut Teknologi Kalimantan, Balikpapan, East Borneo  
 **Graduated:** August 2017  
 
 ---
